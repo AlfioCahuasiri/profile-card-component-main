@@ -23,8 +23,8 @@ body {
     min-height: 100vh;
     background-image: url(https://digitshack.com/codepen/mentor4/bg-pattern-top.svg), url(https://digitshack.com/codepen/mentor4/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
-    background-position: right 48vw bottom 40vh,
-        left 45vw top 44vh;
+    background-position: right 48px bottom 40px,
+        left 45px top 44px;
 }
 
 .container {
@@ -103,7 +103,7 @@ body {
             font-size: 11px;
              text-align: center; }
            .attribution a { 
-             color: red;
+             color: hsl(228, 45%, 44%);
              font-size: 11px;
              text-align: center; 
            }
@@ -124,8 +124,8 @@ body {
         min-height: 100vh;
         background-image: url(https://digitshack.com/codepen/mentor4/bg-pattern-top.svg), url(https://digitshack.com/codepen/mentor4/bg-pattern-bottom.svg);
         background-repeat: no-repeat, no-repeat;
-        background-position: right 48vw bottom 40vh,
-            left 45vw top 44vh;
+        background-position: right 48px bottom 40px,
+            left 45px top 44px;
     }
     
     .container {
@@ -164,7 +164,7 @@ body {
     
     .content p {
         color: var(--dark-grayish);
-        font-size: 13px;
+        font-size: 14px;
     }
     
     .footer {
